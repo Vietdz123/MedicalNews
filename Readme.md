@@ -9,9 +9,9 @@
   <p align="center">
     This is a personal project aimed at learning and practicing various concepts!
     <br />
-    <a href="https://github.com/Vietdz123/Instagram">View Demo</a>
+    <a href="https://github.com/Vietdz123/Instagram">Another Project</a>
     ·
-    <a href="https://github.com/Vietdz123/Instagram/issues">Report Bug</a>
+    <a href="https://github.com/Vietdz123/MedicalNews/issuess">Report Bug</a>
   </p>
 </div>
 
@@ -35,12 +35,39 @@
 ## About The Project
 
 <div align="center">
-<img src="images/product_screenShort1.jpg" alt="Logo" width="320" height="390" style="border-radius: 10px;">
+<img src="images/screen.jpg" alt="Logo" width="320" height="390" style="border-radius: 10px;">
 </div>
 
-This is my personal project where I code according to the design from Figma and integrate it with an API.
+This is a small personal project where I code according to the design from Figma and integrate it with an API.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Video Demo
+
+### I. OTP Controller
+
+Allow users to register account and receive OTP code.
+<div align="center">
+<img src="gif/OTP.gif" alt="Logo" width="200" height="440" style="border-radius: 10px;">
+</div>
+
+### II. HomeController
+
+There are 4 parts:
+- News Article
+- Promotion Article
+- Doctor 
+- Setting information user
+
+<div align="center">
+<img src="gif/home.gif" alt="Logo" width="200" height="440" style="border-radius: 10px;">
+</div>
+
+## Contact
+
+Your Name - [Trinh Tien Viet](https://www.facebook.com/mdgarp49) - tienviet153153@gmail.com
+
+Project Link: [https://github.com/Vietdz123/MedicalNews](https://github.com/Vietdz123/MedicalNews)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
